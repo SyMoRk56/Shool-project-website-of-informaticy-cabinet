@@ -1,0 +1,113 @@
+.frame8-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.frame8-frame8 {
+  width: 100%;
+  height: 1580px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.frame8-back {
+  top: 1393px;
+  left: 1px;
+  width: 100%;
+  height: 187px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(141, 214, 255, 1);
+}
+.frame8-text {
+  left: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 100%;
+  height: auto;
+  position: absolute;
+  font-size: 90px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Comfortaa;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame8-group6 {
+  top: 401px;
+  left: 19px;
+  width: 787px;
+  height: 778px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame8-rectangle31 {
+  top: 20px;
+  left: 25px;
+  width: 737px;
+  height: 737px;
+  position: absolute;
+  border-radius: 88px;
+}
+.frame8-oge11 {
+  top: 0px;
+  left: 0px;
+  width: 787px;
+  height: 778px;
+  position: absolute;
+}
+.frame8-group7 {
+  top: 421px;
+  left: 1143px;
+  width: 737px;
+  height: 737px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(119, 198, 243, 1);
+}
+.frame8-image-photo-room1 {
+  top: 99px;
+  left: 9px;
+  width: 720px;
+  height: 539px;
+  position: absolute;
+}
+.frame8-headler {
+  top: -58px;
+  left: 0px;
+  width: 100%;
+  height: 281px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(141, 214, 255, 1);
+}
+.frame8-text2 {
+  top: 58px;
+  color: rgba(0, 0, 0, 1);
+  width: 100%;
+  height: auto;
+  position: absolute;
+  font-size: 105px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Comfortaa;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
